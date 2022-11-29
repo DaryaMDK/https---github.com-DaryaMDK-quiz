@@ -1,3 +1,5 @@
+**This is simple quiz game!**
+
 In the project directory, you can run:
 
 ### `npm start`

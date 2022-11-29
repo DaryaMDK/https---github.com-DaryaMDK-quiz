@@ -1,4 +1,4 @@
-###This is simple quiz game!###
+**This is simple quiz game!**
 
 In the project directory, you can run:
 
